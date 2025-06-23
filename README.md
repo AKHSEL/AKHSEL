@@ -101,9 +101,13 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:akhseldev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+:mailbox: akhseldev@gmail.com
 </div>
 
-<h3 align="center">自分を信じて</h3>
+<br>
+<br>
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&animation=grow_out_in&quote=自分を信じて">
+</p>
 
 

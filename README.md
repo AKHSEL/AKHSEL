@@ -1,4 +1,4 @@
-div align="center">  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,100:2563EB&section=header" alt="Blue wave header" />  <h1>Hi, I'm Axel 👋</h1>  <p><strong>Developer Jr. · Web & Backend Development</strong></p>  <p>Java · Spring Boot · Next.js · React · Angular<br />REST APIs · SQL · AI & Agents</p>  <p>
+<div align="center">  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,100:2563EB&section=header" alt="Blue wave header" />  <h1>Hi, I'm Axel 👋</h1>  <p><strong>Developer Jr. · Web & Backend Development</strong></p>  <p>Java · Spring Boot · Next.js · React · Angular<br />REST APIs · SQL · AI & Agents</p>  <p>
     <a href="https://www.linkedin.com/in/akhseldev/">
       <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" />
     </a>
